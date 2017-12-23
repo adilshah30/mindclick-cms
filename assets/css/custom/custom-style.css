@@ -1,0 +1,201 @@
+/*================================================================================
+	Item Name: Mc-cms - Mind Click Content Management System
+	Version: 3.0
+	Author: Adil Shah
+	Author URL: http://www.adilshah.com
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+/* Default Css classes */
+.pull-right{
+	float:right;
+}
+.pull-left{
+	float:left;
+}
+.nm{
+	margin:0px;
+}
+.nmb{
+	margin-bottom:0px;
+}
+.nmt{
+	margin-top:0px;
+}
+.nml{
+	margin-left:0px;
+}
+.nmr{
+	margin-right:0px;
+}
+.mb-5{
+	margin-bottom:5px;
+}
+.mt-5{
+	margin-top:5px;
+}
+.mr-5{
+	margin-right:5px;
+}
+.ml-5{
+	margin-left:5px;
+}
+.mb-10{
+	margin-bottom:10px;
+}
+.mt-10{
+	margin-top:10px;
+}
+.mr-10{
+	margin-right:10px;
+}
+.ml-10{
+	margin-left:10px;
+}
+.mb-15{
+	margin-bottom:15px;
+}
+.mt-15{
+	margin-top:15px;
+}
+.mr-15{
+	margin-right:15px;
+}
+.ml-15{
+	margin-left:15px;
+}
+.mb-20{
+	margin-bottom:20px;
+}
+.mt-20{
+	margin-top:20px;
+}
+.mr-20{
+	margin-right:20px;
+}
+.ml-20{
+	margin-left:20px;
+}
+
+.np{
+	padding:0px;
+}
+.npt{
+	padding-top:0px;
+}
+.npb{
+	padding-bottom:0px;
+}
+.npr{
+	padding-right:0px;
+}
+.npl{
+	padding-left:0px;
+}
+
+.pd-5{
+	padding:5px;
+}
+.pb-5{
+	padding-bottom:5px;
+}
+.pt-5{
+	padding-top:5px;
+}
+.pr-5{
+	padding-right:5px;
+}
+.pl-5{
+	padding-left:5px;
+}
+.pd-10{
+        padding:10px;
+}
+.pb-10{
+	padding-bottom:10px;
+}
+.pt-10{
+	padding-top:10px;
+}
+.pr-10{
+	padding-right:10px;
+}
+.pl-10{
+	padding-left:10px;
+}
+.pd-15{
+        padding:15px;
+}
+.pb-15{
+	padding-bottom:15px;
+}
+.pt-15{
+	padding-top:15px;
+}
+.pr-15{
+	padding-right:15px;
+}
+.pl-15{
+	padding-left:15px;
+}
+.pd-20{
+        padding:20px;
+}
+.pb-20{
+	padding-bottom:20px;
+}
+.pt-20{
+	padding-top:20px;
+}
+.pr-20{
+	padding-right:20px;
+}
+.pl-20{
+	padding-left:20px;
+}
+
+/* Default Css classes */
+
+/*Datatable*/
+.dataTables_wrapper .dataTables_processing {
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    height: 100%;
+    z-index: 9;
+    padding: 0px;
+}
+.dataTables_wrapper .dataTables_processing .pre-loader{
+	position: relative;
+    top: 37%;
+}
+/* End Datatable styling */
+
+/*Badges*/
+.mc-badge{
+    color: #fff;
+    font-size: 12px;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+.inactive-badge.mc-badge{
+	background: #d40e0e;    
+}
+.active-badge.mc-badge{
+	background: #d2d40e;
+}
+/*End Badges*/
+
+/*Admin Add/Edit page Styling */
+.custom-content-key-textfield-wrap{
+    display:none;
+}
+.cancel-new-custom-content-key{
+    display:none;
+}
+
+/*End Admin Add/Edit page Styling */
